@@ -23,8 +23,8 @@ To sign out, go to your profile screen and click the signout button
 To run the app in Android Studio, clone the repository and open it in Android Studio. Ensure that you have Flutter and the required dependencies installed. Select an Android device or emulator from the device list, then click the "Run" button to build and launch the app. For running the app as an APK, build the APK by selecting "Build > Build Bundle(s) / APK(s) > Build APK(s)" from the menu. Once the build is complete, locate the APK file in the output directory (typically `build/app/outputs/flutter-apk/`) and install it on your Android device. Ensure your device has developer mode enabled and allows installation from unknown sources.
 
 # Screenshots
-![5843956339909445993](https://github.com/user-attachments/assets/3f648ebe-5826-4b54-bb4a-e9d178bb165b)
 ![5843956339909445992](https://github.com/user-attachments/assets/00934195-41b9-4fd9-8e0d-55b20c7c84c8)
 ![5843956339909445995](https://github.com/user-attachments/assets/c2ede870-1a72-4615-9db3-4f05bdae623e)
+![5843956339909445993](https://github.com/user-attachments/assets/3f648ebe-5826-4b54-bb4a-e9d178bb165b)
 ![Screenshot (36)](https://github.com/user-attachments/assets/a7300b5b-673c-4493-a71a-83dd8e67e31f)
 
